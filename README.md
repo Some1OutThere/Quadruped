@@ -26,6 +26,9 @@ The stl files used for this project can be find [here](https://www.thingiverse.c
 [Arduino IDE](https://www.arduino.cc/en/software) 
 
 ## Flowchart
-![](flowchart.jpg)
+![](flowchart.png)
+
+## Code
+Original code can be found out [here](https://github.com/LakshBhambhani/Minikame-Mk2-Arm-Addon)
 ## Circuit Diagram
 [Reference](http://meped.io/sites/default/files/inline-images/mePed%20Wiring%20Diagram%20500.jpg)
